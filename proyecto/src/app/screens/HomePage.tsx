@@ -24,7 +24,7 @@ export function HomePage() {
   return (
     <div className="flex" style={{ height: 'calc(100vh - 56px)' }}>
       {/* Hero izquierdo */}
-      <div className="flex-1 flex flex-col justify-center px-16 bg-white">
+      <div className="flex-1 flex flex-col justify-center items-center text-center bg-white px-16">
         <p className="text-xs text-gray-400 uppercase tracking-widest mb-3">
           Uber Hub · Gestión grupal
         </p>
